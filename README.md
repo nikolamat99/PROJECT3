@@ -1,1 +1,1 @@
-PODGLĄD PROJEKTU: https://nikolamat99.github.io/PROJEKT3/
+PROJECT PREVIEW: https://nikolamat99.github.io/PROJEKT3/
